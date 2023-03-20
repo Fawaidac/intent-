@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">try</string>
+    <string name="title_activity_homepage">HomepageActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_pengajuan">Pengajuan</string>
+    <string name="title_status">Status</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title1">Politeknik Negeri Jember</string>
+    <string name="title2">Politeknik Negeri Malang</string>
+    <string name="title3">Politeknik Negeri Semarang</string>
+    <string name="title4">Politeknik Elektronika Negeri Surabaya</string>
+    <string name="title5">Politeknik Negeri Madiun</string>
+    <string name="title6">I.T.S Surabaya</string>
+    <string name="title7">Institut Teknologi Bandung</string>
+
+
+    <string name="subtitle1">Kabupaten Jember</string>
+    <string name="subtitle2">Kabupaten Malang</string>
+    <string name="subtitle3">Kabupaten Semarang</string>
+    <string name="subtitle4">Kabupaten Surabaya</string>
+    <string name="subtitle5">Kabupaten Madiun</string>
+    <string name="subtitle6">Kabupaten Bandung</string>
+</resources>
